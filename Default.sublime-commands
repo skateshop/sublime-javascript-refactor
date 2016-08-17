@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "-",
+    "id": "side-bar-end-separator"
+  },
+  {
+    "caption": "JS Refactor: Rename",
+    "command": "refactor_rename"
+  },
+  {
+    "caption": "-",
+    "id": "side-bar-end-separator"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "JS Refactor: Rename",
+    "command": "refactor_rename"
+  }
+]
