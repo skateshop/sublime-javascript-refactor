@@ -68,7 +68,7 @@ TODO
 ```
 > cd sublime-javascript-refactor
 > npm i
-> apm link
+TODO
 ```
 
 ### Contribute
