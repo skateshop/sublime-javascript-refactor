@@ -61,7 +61,7 @@ _Note: there currently is no support for Drag and Drop._
 
 ### Install
 ```
-apm i javascript-refactor
+TODO
 ```
 
 ### Develop
